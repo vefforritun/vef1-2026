@@ -1,7 +1,5 @@
 # Vefforritun 1, 2026
 
-**Þetta er afrit af kennsluáætlun frá því í fyrstu viku námskeiðsins. Nýjasta og núverandi útgáfa er á [GitHub vef námskeiðs](https://github.com/vefforritun/vef1-2026).**
-
 Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 1 kenndan við HÍ haustið 2026.
 
 ## Kennsluáætlun

@@ -2,7 +2,9 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur mánudaginn 17. ágúst, [sjá vikublað á vef námskeiðsins á GitHub](https://github.com/vefforritun/vef1-2026/blob/main/vikur/vika-01.md).
+- [Fyrirlestur 1.1: Kynning á áfanga og námsefni](https://youtu.be/kPvLMSlmd1c)
+- [Fyrirlestur 1.2: Kynning á Canvas, GitHub o.fl.](https://youtu.be/ym4oWivwkV0)
+- [Fyrirlestur 1.3: Verkefni 1 og uppsetning VS Code](https://youtu.be/-03G0MCveYc)
 
 ## Námsefni
 
