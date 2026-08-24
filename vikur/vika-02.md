@@ -2,7 +2,9 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur mánudaginn 24. ágúst, [sjá vikublað á vef námskeiðsins á GitHub](https://github.com/vefforritun/vef1-2026/blob/main/vikur/vika-02.md).
+- [Fyrirlestur 2.1: HTML element og verkefni 1](https://youtu.be/4D-MbjqX2Ws)
+- [Fyrirlestur 2.2: Meira um HTML element, töflur og verkefni 1](https://youtu.be/YjkFN_cjxww)
+- [Fyrirlestur 2.3: Aðgengi, SEO og Netlify í verkefni 1](https://youtu.be/ThWyuYo9EQQ)
 
 ## Námsefni
 
