@@ -2,7 +2,11 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur mánudaginn 31. ágúst, [sjá vikublað á vef námskeiðsins á GitHub](https://github.com/vefforritun/vef1-2026/blob/main/vikur/vika-03.md).
+- [Fyrirlestur 3.1: Aðeins meira um verkefni 1](https://youtu.be/EeOZQOWWMEs)
+- [Fyrirlestur 3.2: CSS inngangur](https://youtu.be/Uc1LdU5Ym3U)
+- [Fyrirlestur 3.3: Verkefni 2 og CSS grunnur](https://youtu.be/v1l9YZ0HXPc)
+
+[Verkefni 2 sem unnið var í, í fyrirlestri 3](https://github.com/vefforritun/vef1-2026-v2-unnid-i-tima).
 
 ## Námsefni
 
