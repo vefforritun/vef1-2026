@@ -2,7 +2,6 @@
 
 ## Fyrirlestrar
 
-
 Koma inn eftir fyrirlestur mánudaginn 7. september, [sjá vikublað á vef námskeiðsins á GitHub](https://github.com/vefforritun/vef1-2026/blob/main/vikur/vika-04.md).
 
 ## Námsefni
