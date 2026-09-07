@@ -2,7 +2,9 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur mánudaginn 7. september, [sjá vikublað á vef námskeiðsins á GitHub](https://github.com/vefforritun/vef1-2026/blob/main/vikur/vika-04.md).
+- [Fyrirlestur 4.1: CSS námsefni vikunnar](https://youtu.be/AwrGnUJM6Qk)
+- [Fyrirlestur 4.2: Verkefni 2, uppsetning](https://youtu.be/Pk_LXy8tS7w)
+- [Fyrirlestur 4.3: Verkefni 2, flexbox](https://youtu.be/nv7fhhxN42k)
 
 ## Námsefni
 

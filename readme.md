@@ -10,8 +10,8 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 1 
 | 2    | 24. ágúst     | Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO              |                     |               |
 | 3    | 31. ágúst     | CSS; box model; specificity og cascade; visual formatting; Letur & litir  | Verkefni 2          | Verkefni 1    |
 | 4    | 7. september  | Flexbox; CSS virkni & stuðningur                                          | Hópverkefni 1       |               |
-| 5    | 14. september | Skalanlegir vefir; hönnun; grid; kvikun                                   | Verkefni 3          | Verkefni 2    |
-| 6    | 21. september | Gestafyrirlestur; node.js & npm; Sass & Stylelint; CSS í stærri verkefnum |                     |               |
+| 5    | 14. september | Gestafyrirlestur; Skalanlegir vefir; hönnun; grid; kvikun                 | Verkefni 3          | Verkefni 2    |
+| 6    | 21. september | node.js & npm; Sass & Stylelint; CSS í stærri verkefnum                   |                     |               |
 | 7    | 28. september | Git & GitHub; JavaScript: gildi, týpur, virkjar                           |                     | Verkefni 3    |
 | 8    | 5. október    | JavaScript: stýriskipanir, föll, fylki, hlutir                            | Hópverkefni 2       |               |
 | 9    | 12. október   | Einingar; forritun á vef: DOM og atburðir                                 | Verkefni 4          | Hópverkefni 1 |
@@ -65,6 +65,12 @@ Námsefni vikunnar er sett inn a.m.k. vikunni áður. Fyrirlestrarnir sjálfir f
   - Kynning; inngangur; HTML; Netlify
 - [Vika 2, 24.—30. ágúst 2026](vikur/vika-02.md)
   - Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO
+- [Vika 3, 31. ágúst — 6. september 2026](vikur/vika-03.md)
+  - CSS; box model; specificity og cascade; visual formatting; Letur & litir
+- [Vika 4, 7.—13. september 2026](vikur/vika-04.md)
+  - Flexbox; CSS virkni & stuðningur
+- [Vika 5, 14.—20. september 2026](vikur/vika-05.md)
+  - Gestafyrirlestur; Skalanlegir vefir; hönnun; grid; kvikun
 
 ## Verkefni
 
@@ -74,6 +80,8 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 
 - [Verkefni 1 (HTML #1)](https://github.com/vefforritun/vef1-2026-v1), setja upp ritil, gera síðu aðgengilega á vefnum gegnum Netlify, HTML element, aðgengi og SEO.
   - Sett fyrir 17. ágúst, skilist 3. september.
+- [Verkefni 2 (CSS #1)](https://github.com/vefforritun/vef1-2026-v2), grunnatriði í CSS, stílar, box model, flexbox.
+  - Sett fyrir 31. ágúst, skilist 17. september.
 
 ### Hópverkefni
 
