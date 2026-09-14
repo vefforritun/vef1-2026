@@ -2,7 +2,8 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur mánudaginn 14. september, [sjá vikublað á vef námskeiðsins á GitHub](https://github.com/vefforritun/vef1-2026/blob/main/vikur/vika-05.md).
+- [Fyrirlestur 5.1: Hópverkefni 1](https://youtu.be/xYI3e8LvQKk)
+- [Fyrirlestur 5.2: Verkefni 2, kort á forsíðu](https://youtu.be/pSmS_LF7oVE)
 
 ## Námsefni
 
