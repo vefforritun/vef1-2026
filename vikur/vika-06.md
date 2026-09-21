@@ -2,7 +2,10 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur mánudaginn 21. september, [sjá vikublað á vef námskeiðsins á GitHub](https://github.com/vefforritun/vef1-2026/blob/main/vikur/vika-06.md).
+- [Fyrirlestur 6.1, verkefni 3 kynning](https://youtu.be/k4shJ7SBzTg)
+- [Fyrirlestur 6.2, verkefni 3, skalanleiki og grid](https://youtu.be/sAlVN94kGqI)
+- [Fyrirlestur 6.3, verkefni 3, npm og tól](https://youtu.be/neNViSbw4TE)
+- [Fyrirlestur 6.4, verkefni 3 og git](https://youtu.be/L5d883CCmVU)
 
 ## Námsefni
 
@@ -35,7 +38,9 @@ Koma inn eftir fyrirlestur mánudaginn 21. september, [sjá vikublað á vef ná
 
 ## Verkefni vikunnar
 
-- [ ] Skoða [figma skjal fyrir hópverkefni 1](https://github.com/vefforritun/vef1-2026-h1) og undirbúa spurningar
-- [ ] Setja upp [node.js](http://nodejs.org/download)
-- [ ] Skoða dæmi um NPM og uppsetningu tóla; prófa sjálf
+- [ ] Skoða [figma skjal fyrir hópverkefni 1](https://github.com/vefforritun/vef1-2026-h1) og undirbúa spurningar.
+- [ ] Setja upp [node.js](http://nodejs.org/download).
+- [ ] Skoða dæmi um NPM og uppsetningu tóla; prófa sjálf.
 - [ ] Byrja á [verkefni 3](https://github.com/vefforritun/vef1-2026-v3).
+- [ ] [Setja upp Git](https://git-scm.com/download/).
+- [ ] Búa til aðgang hjá [GitHub](https://github.com/).

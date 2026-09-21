@@ -71,6 +71,10 @@ Námsefni vikunnar er sett inn a.m.k. vikunni áður. Fyrirlestrarnir sjálfir f
   - Flexbox; CSS virkni & stuðningur
 - [Vika 5, 14.—20. september 2026](vikur/vika-05.md)
   - Gestafyrirlestur; Skalanlegir vefir; hönnun; grid; kvikun
+- [Vika 6, 21.—27. september 2026](vikur/vika-06.md)
+  - Verkefni 3, skalanleiki, grid, npm, tól og git
+- [Vika 7, 28. september — 4. október 2026](vikur/vika-07.md)
+  - Git, GitHub & Netlify; JavaScript gildi, týpur og virkjar
 
 ## Verkefni
 
@@ -82,6 +86,8 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   - Sett fyrir 17. ágúst, skilist 3. september.
 - [Verkefni 2 (CSS #1)](https://github.com/vefforritun/vef1-2026-v2), grunnatriði í CSS, stílar, box model, flexbox.
   - Sett fyrir 31. ágúst, skilist 17. september.
+- [Verkefni 3 (CSS #2)](https://github.com/vefforritun/vef1-2026-v3), skalanleiki, grid, npm, tól og git.
+  - Sett fyrir 21. september, skilist 8. október.
 
 ### Hópverkefni
 
