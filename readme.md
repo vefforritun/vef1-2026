@@ -4,24 +4,24 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 1 
 
 ## Kennsluáætlun
 
-| Vika | Mánudagur     | Viðfangsefni                                                              | Verkefni sett fyrir | Skil          |
-| ---- | ------------- | ------------------------------------------------------------------------- | ------------------- | ------------- |
-| 1    | 17. ágúst     | Kynning; inngangur; HTML; Netlify                                         | Verkefni 1          |               |
-| 2    | 24. ágúst     | Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO              |                     |               |
-| 3    | 31. ágúst     | CSS; box model; specificity og cascade; visual formatting; Letur & litir  | Verkefni 2          | Verkefni 1    |
-| 4    | 7. september  | Flexbox; CSS virkni & stuðningur                                          | Hópverkefni 1       |               |
-| 5    | 14. september | Gestafyrirlestur; Skalanlegir vefir; hönnun; grid; kvikun                 | Verkefni 3          | Verkefni 2    |
-| 6    | 21. september | node.js & npm; Sass & Stylelint; CSS í stærri verkefnum                   |                     |               |
-| 7    | 28. september | Git & GitHub; JavaScript: gildi, týpur, virkjar                           |                     | Verkefni 3    |
-| 8    | 5. október    | JavaScript: stýriskipanir, föll, fylki, hlutir                            | Hópverkefni 2       |               |
-| 9    | 12. október   | Einingar; forritun á vef: DOM og atburðir                                 | Verkefni 4          | Hópverkefni 1 |
-| 10   | 19. október   | Ósamstillt forritun; HTTP & form; ajax; eslint                            |                     |               |
-| 11   | 26. október   | Tæki & tól; villumeðhöndlun; reglulegar segðir; fallaforritun             | Verkefni 5          | Verkefni 4    |
-| 12   | 2. nóvember   | Hlutir; HTML5 og Web APIs; prófanir                                       |                     |               |
-| 13   | 9. nóvember   | Samantekt og upprifjun; aðstoð; umræður                                   |                     | Verkefni 5    |
-| 14   | 16. nóvember  | Upplýsingar um lokapróf; aðstoð; umræður                                  |                     | Hópverkefni 2 |
+| Vika | Mánudagur     | Viðfangsefni                                                             | Verkefni sett fyrir | Skil          |
+| ---- | ------------- | ------------------------------------------------------------------------ | ------------------- | ------------- |
+| 1    | 17. ágúst     | Kynning; inngangur; HTML; Netlify                                        | Verkefni 1          |               |
+| 2    | 24. ágúst     | Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO             |                     |               |
+| 3    | 31. ágúst     | CSS; box model; specificity og cascade; visual formatting; Letur & litir | Verkefni 2          | Verkefni 1    |
+| 4    | 7. september  | Flexbox; CSS virkni & stuðningur                                         |                     |               |
+| 5    | 14. september | Gestafyrirlestur; Skalanlegir vefir; hönnun; grid; kvikun                | Hópverkefni 1       | Verkefni 2    |
+| 6    | 21. september | node.js & npm; Sass & Stylelint; CSS í stærri verkefnum                  | Verkefni 3          |               |
+| 7    | 28. september | Git & GitHub; JavaScript: gildi, týpur, virkjar                          |                     |               |
+| 8    | 5. október    | JavaScript: stýriskipanir, föll, fylki, hlutir                           | Verkefni 4          | Verkefni 3    |
+| 9    | 12. október   | Einingar; forritun á vef: DOM og atburðir                                | Hópverkefni 2       | Hópverkefni 1 |
+| 10   | 19. október   | Ósamstillt forritun; HTTP & form; ajax; eslint                           |                     |               |
+| 11   | 26. október   | Tæki & tól; villumeðhöndlun; reglulegar segðir; fallaforritun            | Verkefni 5          | Verkefni 4    |
+| 12   | 2. nóvember   | Hlutir; HTML5 og Web APIs; prófanir                                      |                     |               |
+| 13   | 9. nóvember   | Samantekt og upprifjun; aðstoð; umræður                                  |                     | Verkefni 5    |
+| 14   | 16. nóvember  | Upplýsingar um lokapróf; aðstoð; umræður                                 |                     | Hópverkefni 2 |
 
-Nánar er [fjallað um kennsluáætlun og námsefni í viku 1](vikur/vika-01.md) og [sýnd yfirferð á námsefni hér á GitHub](TODO).
+Nánar er [fjallað um kennsluáætlun og námsefni í viku 1](vikur/vika-01.md).
 
 [Kennslualmanak háskólaárið 2026–2027](https://ugla.hi.is/kennsluskra/index.php?tab=skoli&chapter=content&id=56468).
 
