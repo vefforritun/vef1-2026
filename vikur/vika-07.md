@@ -2,7 +2,9 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur mánudaginn 28. september, [sjá vikublað á vef námskeiðsins á GitHub](https://github.com/vefforritun/vef1-2026/blob/main/vikur/vika-07.md).
+- [Fyrirlestur 7.1: Verkefni 3, GitHub, PRs & Netlify](https://youtu.be/bl5PaOGr4zU)
+
+[Unnið í verkefni 3](https://github.com/vefforritun/vef1-2026-v3-unnid-i-tima).
 
 ## Námsefni
 
