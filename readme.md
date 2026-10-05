@@ -75,6 +75,10 @@ Námsefni vikunnar er sett inn a.m.k. vikunni áður. Fyrirlestrarnir sjálfir f
   - Verkefni 3, skalanleiki, grid, npm, tól og git
 - [Vika 7, 28. september — 4. október 2026](vikur/vika-07.md)
   - Git, GitHub & Netlify; JavaScript gildi, týpur og virkjar
+- [Vika 8, 5.—11. október 2026](vikur/vika-08.md)
+  - JavaScript: stýriskipanir, föll, fylki, hlutir
+- [Vika 9, 12.—18. október 2026](vikur/vika-09.md)
+  - Einingar; forritun á vef: DOM og atburðir
 
 ## Verkefni
 
@@ -88,6 +92,8 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   - Sett fyrir 31. ágúst, skilist 17. september.
 - [Verkefni 3 (CSS #2)](https://github.com/vefforritun/vef1-2026-v3), skalanleiki, grid, npm, tól og git.
   - Sett fyrir 21. september, skilist 8. október.
+- [Verkefni 4 (JavaScript #1)](https://github.com/vefforritun/vef1-2026-v4), JavaScript forritun, DOM og atburðir.
+  - Sett fyrir 5. október, skilist 22. október.
 
 ### Hópverkefni
 
