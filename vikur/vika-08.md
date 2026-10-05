@@ -2,7 +2,9 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur mánudaginn 5. október, [sjá vikublað á vef námskeiðsins á GitHub](https://github.com/vefforritun/vef1-2026/blob/main/vikur/vika-08.md).
+- [Fyrirlestur 8.1: JavaScript inngangur](https://youtu.be/lwE-2JYL0K0)
+- [Fyrirlestur 8.2: Verkefni 4](https://youtu.be/-Z74cQpB7Pk)
+- [Fyrirlestur 8.3: Unnið í verkefni 4](https://youtu.be/ED1bJAyjXuI)
 
 ## Námsefni
 
