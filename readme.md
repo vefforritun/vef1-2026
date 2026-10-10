@@ -15,7 +15,7 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 1 
 | 7    | 28. september | Git & GitHub; JavaScript: gildi, týpur, virkjar                          |                     |               |
 | 8    | 5. október    | JavaScript: stýriskipanir, föll, fylki, hlutir                           | Verkefni 4          | Verkefni 3    |
 | 9    | 12. október   | Einingar; forritun á vef: DOM og atburðir                                | Hópverkefni 2       | Hópverkefni 1 |
-| 10   | 19. október   | Ósamstillt forritun; HTTP & form; ajax; eslint                           |                     |               |
+| 10   | 19. október   | Ósamstillt forritun; HTTP & form; ajax (fetch); eslint                   |                     |               |
 | 11   | 26. október   | Tæki & tól; villumeðhöndlun; reglulegar segðir; fallaforritun            | Verkefni 5          | Verkefni 4    |
 | 12   | 2. nóvember   | Hlutir; HTML5 og Web APIs; prófanir                                      |                     |               |
 | 13   | 9. nóvember   | Samantekt og upprifjun; aðstoð; umræður                                  |                     | Verkefni 5    |
@@ -79,6 +79,8 @@ Námsefni vikunnar er sett inn a.m.k. vikunni áður. Fyrirlestrarnir sjálfir f
   - JavaScript: stýriskipanir, föll, fylki, hlutir
 - [Vika 9, 12.—18. október 2026](vikur/vika-09.md)
   - Einingar; forritun á vef: DOM og atburðir
+- [Vika 10, 19.—25. október 2026](vikur/vika-10.md)
+  - Ósamstillt forritun; HTTP & form; ajax; eslint
 
 ## Verkefni
 
@@ -100,7 +102,7 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 - [Hópverkefni 1](https://github.com/vefforritun/vef1-2026-h1).
   - Sett fyrir 7. september, skilist 23. október.
 - [Hópverkefni 2](https://github.com/vefforritun/vef1-2026-h2).
-  - Sett fyrir 20. október, skilist um miðjan nóvember fyrir lok misseris.
+  - Sett fyrir 12. október, skilist um miðjan nóvember fyrir lok misseris.
 
 ## Mállíkön
 
