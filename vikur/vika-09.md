@@ -2,7 +2,9 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur mánudaginn 12. október, [sjá vikublað á vef námskeiðsins á GitHub](https://github.com/vefforritun/vef1-2026/blob/main/vikur/vika-09.md).
+- [Fyrirlestur 9.1: v4, DOM og birting á skjám](https://youtu.be/Q2W8PkpzOCo)
+- [Fyrirlestur 9.2: v4, Atburðir, tengja form](https://youtu.be/qpymDWJlLqk)
+- [Fyrirlestur 9.3: v4 spurningaflæði](https://youtu.be/I37-4Sbi1fI)
 
 ## Námsefni
 
