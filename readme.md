@@ -95,14 +95,14 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 - [Verkefni 3 (CSS #2)](https://github.com/vefforritun/vef1-2026-v3), skalanleiki, grid, npm, tól og git.
   - Sett fyrir 21. september, skilist 8. október.
 - [Verkefni 4 (JavaScript #1)](https://github.com/vefforritun/vef1-2026-v4), JavaScript forritun, DOM og atburðir.
-  - Sett fyrir 5. október, skilist 22. október.
+  - Sjá skiladag á Canvas.
 
 ### Hópverkefni
 
 - [Hópverkefni 1](https://github.com/vefforritun/vef1-2026-h1).
   - Sett fyrir 7. september, skilist 23. október.
 - [Hópverkefni 2](https://github.com/vefforritun/vef1-2026-h2).
-  - Sett fyrir 12. október, skilist um miðjan nóvember fyrir lok misseris.
+  - Sjá skiladag á Canvas.
 
 ## Mállíkön
 
