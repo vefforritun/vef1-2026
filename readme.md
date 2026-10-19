@@ -81,6 +81,8 @@ Námsefni vikunnar er sett inn a.m.k. vikunni áður. Fyrirlestrarnir sjálfir f
   - Einingar; forritun á vef: DOM og atburðir
 - [Vika 10, 19.—25. október 2026](vikur/vika-10.md)
   - Ósamstillt forritun; HTTP & form; ajax; eslint
+- [Vika 11, 26. október — 1. nóvember 2026](vikur/vika-11.md)
+  - Tæki & tól; villumeðhöndlun; reglulegar segðir; fallaforritun
 
 ## Verkefni
 

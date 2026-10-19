@@ -8,7 +8,7 @@
 
 ## Dæmi
 
-* [sorting & filtering](daemi/01.sorting-filtering.html)
+* [sorting & filtering](daemi/01.sorting-filtering)
 * [alphabet dæmi](daemi/02.alphabet.js)
 
 ## Ítarefni

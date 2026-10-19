@@ -2,7 +2,13 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur mánudaginn 19. október, [sjá vikublað á vef námskeiðsins á GitHub](https://github.com/vefforritun/vef1-2026/blob/main/vikur/vika-10.md).
+- [Fyrirlestur 10.1: Hópverkefni 2 kynning](https://youtu.be/dRVH1ykkVw8)
+- [Fyrirlestur 10.2: Verkefni 4 og jsdoc](https://youtu.be/B0hxvxdqrUY)
+- [Fyrirlestur 10.3: Verkefni 4 og staða](https://youtu.be/wiJWQpJq_IU)
+
+Unnum í verkefni 4:
+
+[Verkefni 4, unnið í fyrirlestrum](https://github.com/vefforritun/vef1-2026-v4-unnid-i-tima)
 
 ## Námsefni
 
