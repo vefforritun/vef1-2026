@@ -83,6 +83,8 @@ Námsefni vikunnar er sett inn a.m.k. vikunni áður. Fyrirlestrarnir sjálfir f
   - Ósamstillt forritun; HTTP & form; ajax; eslint
 - [Vika 11, 26. október — 1. nóvember 2026](vikur/vika-11.md)
   - Tæki & tól; villumeðhöndlun; reglulegar segðir; fallaforritun
+- [Vika 12, 2.—8. nóvember 2026](vikur/vika-12.md)
+  - Hlutir; HTML5 og Web APIs; prófanir
 
 ## Verkefni
 
@@ -97,6 +99,8 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 - [Verkefni 3 (CSS #2)](https://github.com/vefforritun/vef1-2026-v3), skalanleiki, grid, npm, tól og git.
   - Sett fyrir 21. september, skilist 8. október.
 - [Verkefni 4 (JavaScript #1)](https://github.com/vefforritun/vef1-2026-v4), JavaScript forritun, DOM og atburðir.
+  - Sjá skiladag á Canvas.
+- [Verkefni 5 (JavaScript #2)](https://github.com/vefforritun/vef1-2026-v5), JavaScript, klasar, fetch og DOM.
   - Sjá skiladag á Canvas.
 
 ### Hópverkefni
@@ -118,4 +122,4 @@ Sjá á Uglu og Canvas síðu námskeiðs.
 
 ## Lokapróf
 
-Nánar þegar próftafla birt 30. september.
+Miðvikudaginn 9. desember 2026 kl. 13:30 - 16:30. Staðpróf í Inspera.
