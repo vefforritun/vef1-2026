@@ -2,7 +2,14 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur mánudaginn 26. október, [sjá vikublað á vef námskeiðsins á GitHub](https://github.com/vefforritun/vef1-2026/blob/main/vikur/vika-11.md).
+- [Fyrirlestur 11.1: Námsefni vikna 10, 11 og 12](https://youtu.be/PgDKc8i4gM8)
+- [Fyrirlestur 11.2: Verkefni 5](https://youtu.be/dQmYuvwmNG4)
+- [Fyrirlestur 11.3: Verkefni 5 og vefþjónustukall](https://youtu.be/wzO4gf_NXag)
+- [Fyrirlestur 11.4: Verkefni 5 og DOM og fetch](https://youtu.be/CI7TB4vams0)
+
+Unnum í verkefni 5:
+
+[Verkefni 5, unnið í fyrirlestrum](https://github.com/vefforritun/vef1-2026-v5-unnid-i-tima)
 
 ## Námsefni
 
