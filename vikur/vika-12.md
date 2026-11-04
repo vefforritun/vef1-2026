@@ -2,8 +2,9 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur mánudaginn 2. nóvember, [sjá vikublað á vef námskeiðsins á GitHub](https://github.com/vefforritun/vef1-2026/blob/main/vikur/vika-12.md).
-  
+- [Fyrirlestur 12.1: Verkefni 5 API og gagnavinnsla](https://youtu.be/l5FJoLMO8AA)
+- [Fyrirlestur 12.2: Verkefni 5 hlutir](https://youtu.be/MKPWhYvVESI)
+
 ## Námsefni
 
 ### Lesefni
@@ -31,5 +32,5 @@ Koma inn eftir fyrirlestur mánudaginn 2. nóvember, [sjá vikublað á vef nám
 
 ## Verkefni vikunnar
 
-- [ ] Byrja á [verkefni 5](https://github.com/vefforritun/vef1-2026-v5)
+- [ ] Vinna í [verkefni 5](https://github.com/vefforritun/vef1-2026-v5)
 - [ ] Vinna í [hópverkefni 2](https://github.com/vefforritun/vef1-2026-h2)
